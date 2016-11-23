@@ -1,5 +1,5 @@
 {
   "require": {
-    "omnipay/stripe": "~2.0"
+    "omnipay/stripe": "~2.4"
   }
 }
